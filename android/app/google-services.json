@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "590632038655",
+    "project_id": "kelimeapp-eb822",
+    "storage_bucket": "kelimeapp-eb822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590632038655:android:c8661ba5c6307662e35cca",
+        "android_client_info": {
+          "package_name": "com.example.kelime_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590632038655-v8rckkfj1ehm6it53t8o4orlqhbu7r9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPdexn7D4e2VJebbevh3FlBSS1Hp2loLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590632038655-v8rckkfj1ehm6it53t8o4orlqhbu7r9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590632038655-o0ttochi573l96d2is6id33gtogs7eoa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kelimeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
